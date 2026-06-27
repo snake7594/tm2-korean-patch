@@ -1,0 +1,1317 @@
+{
+ "_meta": {
+  "count": 187,
+  "rule": "한자독음 통일, ko음절<=jp글자(배너 크기맞춤), 村→촌/の→의/峠→재/神社→신사"
+ },
+ "glossary": {
+  "傘岩仙人洞": {
+   "ko": "산암선인동",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "kanji",
+   "note": ""
+  },
+  "秋葉山の滝": {
+   "ko": "추엽산의롱",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "滝→롱(한자음), の→의"
+  },
+  "秋葉山洞窟": {
+   "ko": "추엽산동굴",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "kanji",
+   "note": ""
+  },
+  "イヒカの村": {
+   "ko": "이히카의촌",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "가타카나 음차, の→의, 村→촌"
+  },
+  "京／寺社区": {
+   "ko": "경／사사구",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "／유지, 区→구"
+  },
+  "京／商店区": {
+   "ko": "경／상점구",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "／유지"
+  },
+  "京／住宅区": {
+   "ko": "경／주택구",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "／유지"
+  },
+  "京／貧民区": {
+   "ko": "경／빈민구",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "／유지"
+  },
+  "京／御所区": {
+   "ko": "경／어소구",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "／유지"
+  },
+  "ドンデン山": {
+   "ko": "돈덴산",
+   "jp_len": 5,
+   "ko_len": 3,
+   "kind": "mixed",
+   "note": "가타카나 음차(jp보다 짧음), 山→산"
+  },
+  "ＨａＨｉ村": {
+   "ko": "ＨａＨｉ촌",
+   "jp_len": 5,
+   "ko_len": 5,
+   "kind": "mixed",
+   "note": "전각영문 그대로+촌(공백없이). 기존 'ＨａＨｉ 마을' 교정"
+  },
+  "越前の国": {
+   "ko": "월전의국",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "mixed",
+   "note": "の→의"
+  },
+  "越中の国": {
+   "ko": "월중의국",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "mixed",
+   "note": "の→의"
+  },
+  "地獄谷村": {
+   "ko": "지옥곡촌",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "谷→곡"
+  },
+  "馬鹿野城": {
+   "ko": "마록야성",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "鹿=록"
+  },
+  "赤川神社": {
+   "ko": "적천신사",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "神社→신사"
+  },
+  "造山洞窟": {
+   "ko": "조산동굴",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": ""
+  },
+  "三日月峠": {
+   "ko": "삼일월재",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "峠→재. 기존 '고개' 교정"
+  },
+  "伊勢神宮": {
+   "ko": "이세신궁",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "伊勢=이세(음동일), 神宮→신궁"
+  },
+  "住吉大社": {
+   "ko": "주길대사",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "大社→대사"
+  },
+  "出雲大社": {
+   "ko": "출운대사",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "出雲=출운, 大社→대사"
+  },
+  "亀山神社": {
+   "ko": "구산신사",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "亀=구, 神社→신사"
+  },
+  "美女平村": {
+   "ko": "미녀평촌",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "平→평"
+  },
+  "和歌山城": {
+   "ko": "화가산성",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": ""
+  },
+  "羽須美村": {
+   "ko": "우수미촌",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "羽=우, 須=수"
+  },
+  "夜久野峠": {
+   "ko": "야구야재",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "峠→재"
+  },
+  "大馬鹿野": {
+   "ko": "대마록야",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "鹿=록"
+  },
+  "左火女山": {
+   "ko": "좌화녀산",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": ""
+  },
+  "岸和田村": {
+   "ko": "안화전촌",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "岸=안, 田=전"
+  },
+  "熊野神社": {
+   "ko": "웅야신사",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "熊=웅, 神社→신사"
+  },
+  "宇奈月洞": {
+   "ko": "우나월동",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "奈=나"
+  },
+  "津和野町": {
+   "ko": "진화야정",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "津=진, 町→정"
+  },
+  "青口神社": {
+   "ko": "청구신사",
+   "jp_len": 4,
+   "ko_len": 4,
+   "kind": "kanji",
+   "note": "口=구, 神社→신사"
+  },
+  "牛首村": {
+   "ko": "우수촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "両面窟": {
+   "ko": "양면굴",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "長篠町": {
+   "ko": "장소정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "篠=소(한국한자음)"
+  },
+  "長篠城": {
+   "ko": "장소성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "弁天塔": {
+   "ko": "변천탑",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "鬼骨城": {
+   "ko": "귀골성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "密林城": {
+   "ko": "밀림성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "新宮村": {
+   "ko": "신궁촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "京の国": {
+   "ko": "경의국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "mixed",
+   "note": "の→의"
+  },
+  "信楽村": {
+   "ko": "신악촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "楽=악(한자음)"
+  },
+  "藤原峠": {
+   "ko": "등원재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "峠(国字)→재(1음절). 기존 '고개'(2음절) 교정"
+  },
+  "舞鶴村": {
+   "ko": "무학촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "鶴=학(한자음)"
+  },
+  "大江山": {
+   "ko": "대강산",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "西京洞": {
+   "ko": "서경동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "大霊院": {
+   "ko": "대령원",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "霊=령"
+  },
+  "金沢町": {
+   "ko": "금택정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "沢=택"
+  },
+  "金沢城": {
+   "ko": "금택성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "押水村": {
+   "ko": "압수촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "人魚村": {
+   "ko": "인어촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "幻夢城": {
+   "ko": "환몽성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "新潟村": {
+   "ko": "신석촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "潟=석"
+  },
+  "玄武洞": {
+   "ko": "현무동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "青竜洞": {
+   "ko": "청룡동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "竜=룡"
+  },
+  "白虎洞": {
+   "ko": "백호동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "砂神城": {
+   "ko": "사신성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "玉造村": {
+   "ko": "옥조촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "黄泉平": {
+   "ko": "황천평",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "平→평"
+  },
+  "縁切洞": {
+   "ko": "연절동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "切=절"
+  },
+  "黄昏洞": {
+   "ko": "황혼동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "暗闇城": {
+   "ko": "암암성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "闇=암"
+  },
+  "大草洞": {
+   "ko": "대초동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "宝塚村": {
+   "ko": "보총촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "塚=총"
+  },
+  "魔海城": {
+   "ko": "마해성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "海の底": {
+   "ko": "해의저",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "mixed",
+   "note": "の→의, 底=저"
+  },
+  "矢喰城": {
+   "ko": "시식성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "喰(国字)→식(食 근사 한자음), 矢=시"
+  },
+  "地獄城": {
+   "ko": "지옥성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "三日峠": {
+   "ko": "삼일재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "峠→재. 기존 '고개' 교정"
+  },
+  "船海宮": {
+   "ko": "선해궁",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "宮→궁"
+  },
+  "村上洞": {
+   "ko": "촌상동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "小郡村": {
+   "ko": "소군촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "白橋洞": {
+   "ko": "백교동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "橋=교"
+  },
+  "綾鬼城": {
+   "ko": "능귀성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "綾=능"
+  },
+  "秋芳洞": {
+   "ko": "추방동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "千年洞": {
+   "ko": "천년동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "白銀城": {
+   "ko": "백은성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "銀=은"
+  },
+  "鋼鉄城": {
+   "ko": "강철성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "吉備国": {
+   "ko": "길비국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "国→국"
+  },
+  "神戸村": {
+   "ko": "신호촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "神戸=신호(한자음)"
+  },
+  "法水院": {
+   "ko": "법수원",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "院→원"
+  },
+  "松江村": {
+   "ko": "송강촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "倉敷村": {
+   "ko": "창부촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "倉敷=창부(한자음)"
+  },
+  "伊勢国": {
+   "ko": "이세국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "永平寺": {
+   "ko": "영평사",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "寺→사"
+  },
+  "縄文洞": {
+   "ko": "승문동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "縄=승"
+  },
+  "鹿野村": {
+   "ko": "녹야촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "鹿=록"
+  },
+  "浪華国": {
+   "ko": "낭화국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "出雲国": {
+   "ko": "출운국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "石見国": {
+   "ko": "석견국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "輪島村": {
+   "ko": "윤도촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "輪=윤, 島=도"
+  },
+  "荒神谷": {
+   "ko": "황신곡",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "谷→곡"
+  },
+  "火刃村": {
+   "ko": "화인촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "刃=인"
+  },
+  "津和野": {
+   "ko": "진화야",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "津=진"
+  },
+  "馬瀬村": {
+   "ko": "마뢰촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "瀬=뢰"
+  },
+  "伊賀村": {
+   "ko": "이하촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "賀=하"
+  },
+  "赤目村": {
+   "ko": "적목촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "火彦山": {
+   "ko": "화언산",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "彦=언"
+  },
+  "蛇光院": {
+   "ko": "사광원",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "蛇=사, 院→원"
+  },
+  "淡路島": {
+   "ko": "담로도",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "島=도"
+  },
+  "浜田村": {
+   "ko": "빈전촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "浜=빈, 田=전"
+  },
+  "有馬村": {
+   "ko": "유마촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "鈴鹿峠": {
+   "ko": "영록재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "鈴=영, 鹿=록, 峠→재"
+  },
+  "立山峠": {
+   "ko": "입산재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "立=입, 峠→재"
+  },
+  "豊岡村": {
+   "ko": "풍강촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "豊=풍, 岡=강"
+  },
+  "犬神寺": {
+   "ko": "견신사",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "寺→사"
+  },
+  "長船村": {
+   "ko": "장선촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "長門国": {
+   "ko": "장문국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "原洞窟": {
+   "ko": "원동굴",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "原=원(고유지명접두)"
+  },
+  "志摩村": {
+   "ko": "지마촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "志=지, 摩=마"
+  },
+  "奈良村": {
+   "ko": "나량촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "奈=나, 良=량"
+  },
+  "逢瀬洞": {
+   "ko": "봉뢰동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "逢=봉, 瀬=뢰"
+  },
+  "福井村": {
+   "ko": "복정촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "井=정"
+  },
+  "猪目村": {
+   "ko": "저목촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "猪=저"
+  },
+  "生駒峠": {
+   "ko": "생구재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "駒=구, 峠→재"
+  },
+  "姫路町": {
+   "ko": "희로정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "姫=희, 町→정"
+  },
+  "三郎塚": {
+   "ko": "삼랑총",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "郎=랑, 塚=총"
+  },
+  "安芸国": {
+   "ko": "안예국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "芸=예"
+  },
+  "高野山": {
+   "ko": "고야산",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "松阪町": {
+   "ko": "송판정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "阪=판, 町→정"
+  },
+  "富山町": {
+   "ko": "부산정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "町→정"
+  },
+  "輪笠村": {
+   "ko": "윤립촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "輪=윤, 笠=립"
+  },
+  "舌震村": {
+   "ko": "설진촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "舌=설, 震=진"
+  },
+  "御岳山": {
+   "ko": "어악산",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "岳=악"
+  },
+  "紀伊国": {
+   "ko": "기이국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "紀=기"
+  },
+  "高山村": {
+   "ko": "고산촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "犬山町": {
+   "ko": "견산정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "町→정"
+  },
+  "姫路城": {
+   "ko": "희로성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "姫=희"
+  },
+  "福山村": {
+   "ko": "복산촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "岩国村": {
+   "ko": "암국촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "岩=암"
+  },
+  "尾張国": {
+   "ko": "미장국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "尾=미, 張=장"
+  },
+  "近江国": {
+   "ko": "근강국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "近=근, 江=강"
+  },
+  "七本目": {
+   "ko": "칠본목",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "지명(七本目)"
+  },
+  "丹波国": {
+   "ko": "단파국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "丹=단, 波=파"
+  },
+  "八本目": {
+   "ko": "팔본목",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "福島村": {
+   "ko": "복도촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "島=도"
+  },
+  "山城村": {
+   "ko": "산성촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "亀岡村": {
+   "ko": "구강촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "亀=구, 岡=강"
+  },
+  "綾部村": {
+   "ko": "능부촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "綾=능"
+  },
+  "田代峠": {
+   "ko": "전대재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "田=전, 峠→재"
+  },
+  "岡山町": {
+   "ko": "강산정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "岡=강, 町→정"
+  },
+  "広島町": {
+   "ko": "광도정",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "島=도, 町→정"
+  },
+  "越中国": {
+   "ko": "월중국",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "馬鹿野": {
+   "ko": "마록야",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "鹿=록"
+  },
+  "白川村": {
+   "ko": "백천촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "犬山城": {
+   "ko": "견산성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "秋葉山": {
+   "ko": "추엽산",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "松阪城": {
+   "ko": "송판성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "阪=판"
+  },
+  "串本村": {
+   "ko": "관본촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "串=관"
+  },
+  "白浜村": {
+   "ko": "백빈촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "浜=빈"
+  },
+  "尾鷲村": {
+   "ko": "미취촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "尾=미, 鷲=취"
+  },
+  "逢坂峠": {
+   "ko": "봉판재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "逢=봉, 坂=판, 峠→재"
+  },
+  "鞍馬峠": {
+   "ko": "안마재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "鞍=안, 峠→재"
+  },
+  "金谷洞": {
+   "ko": "금곡동",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "谷→곡"
+  },
+  "富山城": {
+   "ko": "부산성",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": ""
+  },
+  "三条村": {
+   "ko": "삼조촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "条=조"
+  },
+  "鳥取村": {
+   "ko": "조취촌",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "鳥=조, 取=취"
+  },
+  "戸倉峠": {
+   "ko": "호창재",
+   "jp_len": 3,
+   "ko_len": 3,
+   "kind": "kanji",
+   "note": "戸=호, 倉=창, 峠→재"
+  },
+  "妙院": {
+   "ko": "묘원",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": ""
+  },
+  "堺村": {
+   "ko": "계촌",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "堺=계"
+  },
+  "萩村": {
+   "ko": "추촌",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "萩=추"
+  },
+  "錦峠": {
+   "ko": "금재",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "峠→재. 기존 '고개' 교정"
+  },
+  "京都": {
+   "ko": "경도",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "한자음 경도(교토 아님)"
+  },
+  "富山": {
+   "ko": "부산",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "富山(현)=부산(한자음)"
+  },
+  "白山": {
+   "ko": "백산",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": ""
+  },
+  "三国": {
+   "ko": "삼국",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "지명(三国)"
+  },
+  "宝塚": {
+   "ko": "보총",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "塚=총"
+  },
+  "広島": {
+   "ko": "광도",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "島=도(한자음)"
+  },
+  "亀山": {
+   "ko": "구산",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "亀=구"
+  },
+  "本目": {
+   "ko": "본목",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": ""
+  },
+  "傘岩": {
+   "ko": "산암",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "傘=산"
+  },
+  "胸塚": {
+   "ko": "흉총",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "塚=총"
+  },
+  "犬山": {
+   "ko": "견산",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": ""
+  },
+  "子村": {
+   "ko": "자촌",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "子=자"
+  },
+  "足塚": {
+   "ko": "족총",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "塚=총"
+  },
+  "火刃": {
+   "ko": "화인",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "刃=인"
+  },
+  "人目": {
+   "ko": "인목",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "지명(人目)"
+  },
+  "腹塚": {
+   "ko": "복총",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "塚=총"
+  },
+  "手塚": {
+   "ko": "수총",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "塚=총"
+  },
+  "葉峠": {
+   "ko": "엽재",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "峠→재"
+  },
+  "岡山": {
+   "ko": "강산",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "岡=강"
+  },
+  "中国": {
+   "ko": "중국",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "지방명 中国(주고쿠)→중국"
+  },
+  "輪島": {
+   "ko": "윤도",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "輪=윤, 島=도"
+  },
+  "一目": {
+   "ko": "일목",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "지명(一目)"
+  },
+  "白浜": {
+   "ko": "백빈",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "浜=빈"
+  },
+  "金山": {
+   "ko": "금산",
+   "jp_len": 2,
+   "ko_len": 2,
+   "kind": "kanji",
+   "note": "지명(金山)"
+  }
+ }
+}

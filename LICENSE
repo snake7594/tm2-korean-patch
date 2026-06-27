@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 snake7594
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────
+SCOPE / 적용 범위
+
+The MIT license above applies ONLY to the original tooling and source code in
+this repository (the Python scripts and build tooling authored by the project).
+
+It does NOT apply to:
+
+  * Galmuri11 font (patch/dialogue/Galmuri11.bdf) — licensed separately under
+    the SIL Open Font License 1.1. See patch/LICENSE.txt.
+    © Lee Minseo (quiple). https://github.com/quiple/galmuri
+
+  * Game text, translation data, and any derived assets — these are derivative
+    works of "天外魔境II 卍MARU" (Tengai Makyou II: Manji Maru), which is
+    copyrighted by its respective rights holders (Red Company / Hudson Soft /
+    Sting). They are provided here for non-commercial fan-translation purposes
+    only. No game ROM is included or distributed in this repository.
