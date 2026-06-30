@@ -1,4 +1,4 @@
-<!-- English summary for GitHub discoverability -->
+﻿<!-- English summary for GitHub discoverability -->
 **Korean fan-translation patch for _Tengai Makyou II: Manji Maru_ (天外魔境II 卍MARU, Nintendo DS, game code ATMJ).** Tools, translation data, and font for building the patch — no ROM included.
 
 # 천외마경II 卍MARU 한국어 패치 (Tengai Makyou II: Manji Maru — Korean Patch)
@@ -49,7 +49,7 @@
 xdelta3([공식 배포](https://github.com/jmacd/xdelta)) 명령줄:
 
 ```
-xdelta3 -d -s 원본_ATMJ.nds "dist/Tengai Makyou II - Manji Maru (Korean)_20260629.xdelta" 출력_KR.nds
+xdelta3 -d -s 원본_ATMJ.nds "dist/Tengai Makyou II - Manji Maru (Korean)_v1.0.0.xdelta" 출력_KR.nds
 ```
 
 GUI 패처(예: delta patcher, MultiPatch)라면 원본 롬과 `.xdelta` 파일을 지정하고 Apply를 누르면 됩니다.
